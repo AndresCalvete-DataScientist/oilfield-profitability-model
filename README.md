@@ -48,6 +48,8 @@ Este proyecto demuestra competencias técnicas clave en análisis predictivo y e
   - Alto valor esperado de retorno.
   - Riesgo de pérdida inferior al 2.5% bajo el umbral de decisión.
 - El análisis ayuda a justificar decisiones de inversión basadas en datos y probabilidad.
+  
+![image](https://raw.githubusercontent.com/AndresCalvete-DataScientist/oilfield-profitability-model/main/images/bootstrap_analysis.png)
 
 ---
 
